@@ -4,13 +4,14 @@ Here are our ten core certifications:
 
 <h3>Responsive Web Design Certification</h3>
 <ul>
-<li>Learn HTML by Building a Cat Photo App</li>
+  <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app">Learn HTML by Building a Cat Photo App</a></li>
 <li>Learn Basic CSS by Building a Cafe Menu</li>
 <li>Learn CSS Colors by Building a Set of Colored Markers</li>
 <li>Learn HTML Forms by Building a Registration Form</li>
 <li>Learn the CSS Box Model by Building a Rothko Painting</li>
 <li>Learn CSS Flexbox by Building a Photo Gallery</li>
-<li>Learn Typography by Building a Nutrition Label</li>
+  <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-typography-by-building-a-nutrition-label">Learn Typography by Building a Nutrition Label</a>
+  </li>
 <li>Learn Accessibility by Building a Quiz</li>
 <li>Learn More About CSS Pseudo Selectors By Building A Balance Sheet</li>
 <li>Learn Intermediate CSS by Building a Picasso Painting</li>
