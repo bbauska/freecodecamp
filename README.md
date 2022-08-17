@@ -24,3 +24,14 @@ Here are our ten core certifications:
 
 <p>Projects: Survey Form, Tribute Page, Technical Documentation Page, Product Landing Page, Personal Portfolio Webpage
 </p>
+
+<h3>Front-end Libraries</h3>
+<ul>
+  <li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap">Bootstrap</a></li>
+  <li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery">jQuery</a></li>
+  <li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/#sass">jSass</a></li>
+<li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/#react">jReact</a></li>
+<li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/#redux">jRedux</a></li>
+<li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux">jReact and Redux</a></li>
+  </ul>
+  
